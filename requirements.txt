@@ -8,3 +8,5 @@ mlflow
 jupyter
 hyperopt
 xgboost
+python-dotenv
+azure-storage-blob
